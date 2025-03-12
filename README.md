@@ -1,9 +1,9 @@
-## Hi there 👋
+Hola Soy Migdalia👋
 
 <!--
-**Julissamigdalia/Julissamigdalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+💻 Desarrolladora en aprendizaje apasionada por la IA y el desarrollo web.  
+🚀 Actualmente trabajando con **Haskell, Spring Boot, y PLN con NLTK**.  
+🎯 Aprendiendo más sobre **GitHub y personalización de perfiles**. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
