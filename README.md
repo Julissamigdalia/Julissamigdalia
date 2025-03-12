@@ -1,6 +1,6 @@
 Hola Soy Migdalia👋
 
-<!--
+
 💻 Desarrolladora en aprendizaje apasionada por la IA y el desarrollo web.  
 🚀 Actualmente trabajando con **Haskell, Spring Boot, y PLN con NLTK**.  
 🎯 Aprendiendo más sobre **GitHub y personalización de perfiles**. 
@@ -13,4 +13,4 @@ Hola Soy Migdalia👋
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
